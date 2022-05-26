@@ -1,9 +1,14 @@
 body{
     font-size: 14px;
+<<<<<<< HEAD
     align-self: start14px;
     padding: 0%;
 }
 footer{
     background-origin: padding-box;
     align-self: start;
+=======
+    margin: 20px;
+    padding: 0%;
+>>>>>>> test4
 }
